@@ -13,3 +13,15 @@
     box-sizing: border-box;
     font-family: var(--font-principal);
 }
+
+.banner {
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+}
+
+.banner .box {
+    position: relative;
+    height: 100vh;
+    background: var(--fundo);
+}
+
