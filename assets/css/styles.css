@@ -27,12 +27,6 @@
     background: var(--fundo);
 }
 
-.banner .box:nth-child(2) {
-    position: relative;
-    height: 100vh;
-    background: black;
-}
-
 header {
     position: absolute;
     left: 0;
@@ -42,6 +36,7 @@ header {
     align-items: center;
     width: 100%;
     padding: 20px 60px;
+    letter-spacing: 1px;
 }
 
 header .logo img {
@@ -66,4 +61,26 @@ header ul li a {
 
 header ul li a:hover {
     color: var(--color-hover);
+}
+
+.banner .conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner .conteudo .conteudoBox {
+    align-items: center;
+    text-align: center;
+    padding: 60px;
+}
+
+.banner .conteudo .conteudoBox img {
+    max-width: 100%;
+}
+
+.banner .conteudo .conteudoBox p {
+    font-weight: 500;
+    color: var(--color-branco);
+    letter-spacing: 1px;
 }
