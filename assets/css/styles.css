@@ -224,6 +224,11 @@ header ul li a:hover {
     .banner .redes {
         right: 40px;
     }
+
+    .trailer video {
+        max-width: 90%;
+        outline: none;
+    }
 }
 
 @media (max-width: 600px) {
