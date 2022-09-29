@@ -181,6 +181,13 @@ header ul li a:hover {
     align-items: center;
     background: rgba(0,0,0,0.95);
     z-index: 10000;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.trailer.active {
+    visibility: visible;
+    opacity: 1;
 }
 
 .trailer video {
