@@ -7,6 +7,11 @@
 * [:dart: Objetivo](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#dart-objetivo)
 * [:open_book: Aprendizado](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#open_book-aprendizado)
 * [:camera: Imagens do Projeto](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#camera-imagens-do-projeto)
+* 1. [:iphone: :computer: :desktop_computer:Responsividade](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/edit/master/README.md#responsividade-iphone-computer-desktop_computer)
+* 2. [:movie_camera: Vídeo Apresentação do Projeto](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/edit/master/README.md#movie_camera-v%C3%ADdeo-apresenta%C3%A7%C3%A3o-do-projeto)
+* 3. [:iphone: Mobile](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/edit/master/README.md#iphone-mobile)
+* 4. [:computer: Tablet](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/edit/master/README.md#computer-tablet)
+* 5. [:desktop_computer: Desktop / Notebook](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/edit/master/README.md#desktop_computer-desktop--notebook)
 * [:link: Links](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#link-links)
 * [:technologist: Autor](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#technologist-autor)
 
@@ -21,7 +26,8 @@
 # :open_book: Aprendizado
 
 # :camera: Imagens do Projeto
-* # Responsividade :iphone: :computer: :desktop_computer:
+<h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
+
 * # :movie_camera: Vídeo Apresentação do Projeto
 <p align="left">
 <img width="600" height="300" src="assets/img/gif-apresentacao.gif">
