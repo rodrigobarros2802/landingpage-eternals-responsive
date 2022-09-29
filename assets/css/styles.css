@@ -99,9 +99,44 @@ header ul li a:hover {
     font-weight: 500;
     margin-top: 20px;
     font-size: 18px;
+    transition: 0.5s;
 }
 
 .banner .conteudo .conteudoBox .botao:hover {
     letter-spacing: 2px;
 }
+
+.banner .redes {
+    position: absolute;
+    bottom: 30px;
+    right: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.banner .redes h3 {
+    font-weight: 700;
+    color: var(--color-font);
+    letter-spacing: 1px;
+}
+
+.banner .redes li {
+    list-style: none;
+    transition: 0.5s;
+}
+
+.banner .redes li a {
+    text-decoration: none;
+}
+
+.banner .redes img {
+    width: 40px;
+}
+
+.banner .redes li:hover {
+    transform: translateY(-15px);
+}
+
 
