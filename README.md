@@ -1,4 +1,4 @@
-# :triangular_ruler: Landing Page Marvel - Eternals
+<h1 align="center">:triangular_ruler: Landing Page Marvel - Eternals</h1>
 
 # :memo: Índice
 * [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#chart_with_upwards_trend-proposta)
