@@ -28,19 +28,19 @@
 # :camera: Imagens do Projeto
 <h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
 
-* # :movie_camera: Vídeo Apresentação do Projeto
-<p align="left">
+<h1 align="center">:movie_camera: Vídeo Apresentação do Projeto</h1>
+<p align="center">
 <img width="600" height="300" src="assets/img/gif-apresentacao.gif">
 </p>
 
-* # :iphone: Mobile
-![Mobile](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/blob/15a58a35dba649a23da296842d0431717623b16e/assets/img/print%20mobile.png)
+<h1 align="center">:iphone: Mobile</h1>
+<p align="center"><img src="assets/img/print mobile.png"></p>
 
-* # :computer: Tablet
-![Tablet](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/blob/15a58a35dba649a23da296842d0431717623b16e/assets/img/print%20tablet.png)
+<h1 align="center">:computer: Tablet</h1>
+<p align="center"><img src="assets/img/print tablet.png"></p>
 
-* # :desktop_computer: Desktop / Notebook
-![Desktop](https://github.com/rodrigobarros2802/landingpage-eternals-responsive/blob/15a58a35dba649a23da296842d0431717623b16e/assets/img/print%20desktop.png)
+<h1 align="center">:desktop_computer: Desktop / Notebook</h1>
+<p align="center"><img src="assets/img/print desktop.png"></p>
 
 # :link: Links
 Deploy - 
