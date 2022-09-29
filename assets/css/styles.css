@@ -83,4 +83,15 @@ header ul li a:hover {
     font-weight: 500;
     color: var(--color-branco);
     letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.banner .conteudo .conteudoBox a {
+    padding: 10px 30px;
+    background-color: var(--color-branco);
+    color: var(--color-botao);
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: 500;
+    margin-top: 50px;
 }
