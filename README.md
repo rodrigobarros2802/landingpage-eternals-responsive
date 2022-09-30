@@ -15,17 +15,23 @@
 * [:link: Links](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#link-links)
 * [:technologist: Autor](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#technologist-autor)
 
-# :chart_with_upwards_trend: Proposta
+<h1 align="center">:chart_with_upwards_trend: Proposta</h1>
+<p align="center"></p>
 
-# :trophy: Desafio
+<h1 align="center">:trophy: Desafio</h1>
+<p align="center"></p>
 
-# :hammer_and_wrench: Tecnologias
+<h1 align="center">:hammer_and_wrench: Tecnologias</h1>
+<p align="center"></p>
 
-# :dart: Objetivo
+<h1 align="center">:dart: Objetivo</h1>
+<p align="center"></p>
 
-# :open_book: Aprendizado
+<h1 align="center">:open_book: Aprendizado</h1>
+<p align="center"></p>
+<p align="center"><img src=""></p>
 
-# :camera: Imagens do Projeto
+<h1 align="center">:camera: Imagens do Projeto</h1>
 <h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
 
 <h1 align="center">:movie_camera: Vídeo Apresentação do Projeto</h1>
@@ -42,11 +48,11 @@
 <h1 align="center">:desktop_computer: Desktop / Notebook</h1>
 <p align="center"><img src="assets/img/print desktop.png"></p>
 
-# :link: Links
-Deploy - 
+<h1 align="center">:link: Links</h1>
+<p align="center">Deploy -</p> 
 
-# :technologist: Autor
+<h1 align="center">:technologist: Autor</h1>
 
-LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/
+<p align="center">LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/</p>
 
-GitHub - https://github.com/rodrigobarros2802
+<p align="center">GitHub - https://github.com/rodrigobarros2802</p> 
