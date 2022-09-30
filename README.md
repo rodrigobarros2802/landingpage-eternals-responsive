@@ -22,14 +22,17 @@
 <p align="center"></p>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
-<p align="center"></p>
+<p align="center"><strong>JavaScript</strong></p>
+<p align="center"><strong>HTML 5</strong></p>
+<p align="center"><strong>CSS3</strong></p>
 
 <h1 align="center">:dart: Objetivo</h1>
-<p align="center"></p>
+<p align="center">Usar a propriedade Flexbox Grid</p>
+<p align="center">Tornar responsivo para todos os dispositivos móveis</p>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<p align="center"></p>
-<p align="center"><img src=""></p>
+<p align="center">Aprendi nesse projeto a dispor da propriedade Grid e suas frações divindo o layout.</p>
+<p align="center"><img src="assets/img/aprendizado.png"></p>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
 <h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
