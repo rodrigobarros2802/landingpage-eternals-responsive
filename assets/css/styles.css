@@ -149,7 +149,7 @@ header ul li a:hover {
     position: relative;
     width: 50%;
     height: 50vh;
-    background: yellow;
+    background: black;
 }
 
 .banner .imagens .imagensBox:nth-child(2) {
@@ -158,7 +158,7 @@ header ul li a:hover {
 
 .banner .imagens .imagensBox:nth-child(3) {
     width: 100%;
-    background: pink;
+    background: black;
 }
 
 .banner .imagens .imagensBox img {
