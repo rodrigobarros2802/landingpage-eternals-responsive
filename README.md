@@ -16,10 +16,10 @@
 * [:technologist: Autor](https://github.com/rodrigobarros2802/landingpage-eternals-responsive#technologist-autor)
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<p align="center"></p>
+<p align="center">A proposta desse projeto foi aumentar e melhorar o conhecimento a nível técnico e teórico das respectivas tecnologias usada nesse trabalho.</p>
 
 <h1 align="center">:trophy: Desafio</h1>
-<p align="center"></p>
+<p align="center">Meu maior desafio foi usar a propriedade FlexBox Grid e organiza-las entre si, e inserir um vídeo onde o usuário ao clicar no botão será apresentado o trailer do filme.</p>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
 <p align="center"><strong>JavaScript</strong></p>
