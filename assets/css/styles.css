@@ -146,7 +146,7 @@ header ul li a:hover {
 }
 
 .banner .imagens .imagensBox {
-    position: relative;
+    position: relative; 
     width: 50%;
     height: 50vh;
     background: black;
