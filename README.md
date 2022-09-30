@@ -51,7 +51,7 @@
 <h1 align="center">:desktop_computer: Desktop / Notebook</h1>
 <p align="center"><img src="assets/img/print desktop.png"></p>
 
-<h1 align="center">:link: Links</h1>
+<h1 align="center">:link: Link Deploy</h1>
 <p align="center">Deploy - https://tangerine-croquembouche-4724e4.netlify.app/</p> 
 
 <h1 align="center">:technologist: Autor</h1>
